@@ -6,6 +6,7 @@ This app allows the user to input information regarding their full names, the sc
 
 ### App Walk-though
 https://i.imgur.com/pjY7U6a.gif
+
 <img src="https://i.imgur.com/pjY7U6a.gif" width=200><br>
 
 ### Required Features
